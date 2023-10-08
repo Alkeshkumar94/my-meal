@@ -17,6 +17,7 @@
 
     text-align: center;
 }
+/* services */
 #services{
     display: flex;
 flex-wrap: wrap;
